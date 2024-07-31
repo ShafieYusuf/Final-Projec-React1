@@ -1,5 +1,2 @@
-# Final-Projec-React1
-IAM USIONG RAPIDAPI
-NAME : SHAAFICI YUUSUF XUSEEN
-
-ID : C1210911
+this project iam using 
+[RApidAPI.com](https://rapidapi.com/hub)
